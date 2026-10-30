@@ -586,8 +586,74 @@
     {
       "kind": "app",
       "id": "hanako-runtime-learner",
-      "repository": "326sun/Hanako-runtime-learner",
+      "repository": "326sun/runtime-learner",
       "publisher": "Sun"
+    },
+    {
+      "kind": "app",
+      "id": "hana-desktop-pet",
+      "repository": "wqh0201-stack/hana-desk-pet",
+      "publisher": "罐头（本地原型）"
+    },
+    {
+      "kind": "connector",
+      "id": "tinyfish",
+      "repository": "Nyasers/tinyfish",
+      "publisher": "Nyasers"
+    },
+    {
+      "kind": "app",
+      "id": "repo-auto-index",
+      "repository": "X-J-S-C/repo-auto-index",
+      "publisher": "X-J-S-C"
+    },
+    {
+      "kind": "app",
+      "id": "cyber-newspaper",
+      "repository": "YMaTaZ/cyber-newspaper",
+      "publisher": "YMaTaZ"
+    },
+    {
+      "kind": "app",
+      "id": "mode-center",
+      "repository": "shenmingganlin/mode-center",
+      "publisher": "甘霖"
+    },
+    {
+      "kind": "app",
+      "id": "diff-stat",
+      "repository": "kagurazakayukari/diff-stat",
+      "publisher": "紫喵"
+    },
+    {
+      "kind": "app",
+      "id": "quick-cmd",
+      "repository": "Magnemomet/hana-quick-cmd",
+      "publisher": "Magnemomet"
+    },
+    {
+      "kind": "connector",
+      "id": "obsidian-local",
+      "repository": "XZJ-top/hana-zotero-obsidian-connectors",
+      "publisher": "XZJ"
+    },
+    {
+      "kind": "connector",
+      "id": "zotero",
+      "repository": "XZJ-top/hana-zotero-obsidian-connectors",
+      "publisher": "XZJ"
+    },
+    {
+      "kind": "recipe",
+      "id": "hana-card-templates",
+      "repository": "openhanako-labs/openhanako-sundries",
+      "publisher": "Yuexiye"
+    },
+    {
+      "kind": "app",
+      "id": "hana-push-astra",
+      "repository": "liliMozi/hana-push-astra",
+      "publisher": "liliMozi"
     }
   ]
 }
